@@ -21,7 +21,7 @@ export function Footer() {
                         <li className="pt-5">Shipping & Delivery Policy</li>
                         <li className="pt-5">Terms & Conditions</li>
                     </ul>
-                    <ul className="list border-r pr-7 border-gray-300">
+                    <ul className="list border-r pr-17 border-gray-300">
                         <li className="font-bold text-xl">Other Links</li>
                         <hr className="mt-2 w-10 border-2 text-[#9c3466]" />
                         <li className="pt-5">Redemption Hill Church</li>
@@ -31,7 +31,7 @@ export function Footer() {
                         <li className="pt-5">Sola Books</li>
                         <li className="pt-5">Equip Indian Churches</li>
                     </ul>
-                    <ul className="list border-r pr-7 border-gray-300">
+                    <ul className="list border-r pr-12 border-gray-300">
                         <li className="font-bold text-xl">Authors</li>
                         <hr className="mt-2 w-10 border-2 text-[#9c3466]" />
                         <li className="pt-5">Michael Teddy</li>
@@ -39,8 +39,12 @@ export function Footer() {
                         <li className="pt-5">Ashok Mohanakumar</li>
                         <li className="pt-5">Steve Waltin</li>
                     </ul>
-                    <ul>
-                        <img src="https://thecrosspurpose.com/wp-content/uploads/2022/09/logo-1.png" className="h-915px w-198px" />
+                    <ul className="list pl-12">
+                        <li className="pt-5"><a href="https://thecrosspurpose.com"><img src="https://thecrosspurpose.com/wp-content/uploads/2022/09/logo-1.png" alt="logo" className="w-lg" /></a></li>
+                        <li className="pt-5">Informing Minds. Reforming Hearts.</li>
+                        <ul className="flex">
+                            <li><img src="" alt="" /></li>
+                        </ul>
                     </ul>
                 </div>
                 <hr className="my-4 mx-0 text-gray-200" />
