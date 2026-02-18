@@ -1,6 +1,6 @@
-import { useState } from 'react'
-import { Footer } from './footer'
+import Footer from './Footer'
 import Header from './Header'
+import SectionOne from './SectionOne'
 
 function App() {
 
@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <Header />
+      <SectionOne />
       <Footer />
     </>
   )
