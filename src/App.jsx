@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Footer from './Footer'
+import Footer from './footer'
 import Header from './Header'
 
 function App() {
