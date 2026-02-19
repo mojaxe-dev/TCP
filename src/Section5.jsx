@@ -3,7 +3,7 @@ import meetmario from "./assets/meetmario.jpg"
 
 
 export default function Section5() {
-
+    const underlineEffect = "after:content-[''] after:w-0 after:h-0.5 after:bg-black after:absolute relative after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-500 w-max hover:cursor-pointer"
 
     return (
         <div className="mx-32">
