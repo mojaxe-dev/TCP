@@ -1,6 +1,7 @@
 import Footer from './Footer'
 import Header from './Header'
 import SectionOne from './SectionOne'
+import CTA from './CTA'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <>
       <Header />
       <SectionOne />
+      <CTA />
       <Footer />
     </>
   )
