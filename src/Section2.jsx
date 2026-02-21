@@ -19,7 +19,7 @@ export default function Section2() {
                 </div>
             </div>
             <hr className=" text-gray-200" />
-            <div className="bg-red-300 h-58 w-[605px] mt-9 mb-15 flex">
+            <div className="bg-red-300 h-58 w-151.25 mt-9 mb-15 flex">
                 <div>
                     <p>You are salt and light</p>
                     <p>
